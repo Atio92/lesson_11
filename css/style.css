@@ -28,7 +28,7 @@ body {
 }
 .nav-bar__menu::before{
 	content: "";
-	background: url('img/icons/logo.svg') 0 0 / 100% no-repeat;
+	background: url('../img/icons/logo.svg') 0 0 / 100% no-repeat;
 	width: 130px;
 	height: 22px;
 	position: absolute;
@@ -96,7 +96,7 @@ body {
 }
 .button__link--log::before{
 	content: "";
-	background: url('img/icons/profile.svg') 0 0 / 100% no-repeat;
+	background: url('../img/icons/profile.svg') 0 0 / 100% no-repeat;
 	width: 20px;
 	height: 20px;
 	position: absolute;
@@ -123,7 +123,7 @@ body {
 }
 .play-video__text::before{
 	content: "";
-	background: url('img/icons/hover.svg') 0 0 / 100% no-repeat;
+	background: url('../img/icons/hover.svg') 0 0 / 100% no-repeat;
 	width: 84px;
 	height: 84px;
 	position: absolute;
@@ -131,11 +131,11 @@ body {
 	left: 0px;
 }
 .page__vessel{
-	background: url('img/sea_bg.jpg') 0 0 / 100% no-repeat;
+	background: url('../img/sea_bg.jpg') 0 0 / 100% no-repeat;
 	padding: 300px;
 }
 .below-waterline{
-	background: url('img/below_waterline.png') 0 0 / 100% no-repeat;
+	background: url('../img/below_waterline.png') 0 0 / 100% no-repeat;
 	height: 58px;
 	width: 626px;
 	position: relative;
@@ -144,7 +144,7 @@ body {
 	opacity: 0.4;
 }
 .hull{
-	background: url('img/hull.png') 0 0 / 100% no-repeat;
+	background: url('../img/hull.png') 0 0 / 100% no-repeat;
 	height: 102px;
 	width: 632px;
 	position: relative;
@@ -152,7 +152,7 @@ body {
 	bottom: 57px;
 }
 .accommodation{
-	background: url('img/accommodation.png') 0 0 / 100% no-repeat;
+	background: url('../img/accommodation.png') 0 0 / 100% no-repeat;
 	height: 160px;
 	width: 171px;
 	position: relative;
@@ -160,7 +160,7 @@ body {
 	bottom: 276px;
 }
 .boat{
-	background: url('img/boat.png') 0 0 / 100% no-repeat;
+	background: url('../img/boat.png') 0 0 / 100% no-repeat;
 	height: 27px;
 	width: 48px;
 	position: relative;
@@ -168,7 +168,7 @@ body {
 	bottom: 302px;
 }
 .crane{
-	background: url('img/crane.png') 0 0 / 100% no-repeat;
+	background: url('../img/crane.png') 0 0 / 100% no-repeat;
 	height: 20px;
 	width: 21px;
 	position: relative;
